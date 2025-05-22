@@ -1,4 +1,4 @@
-# [Проект Место](https://github.com/Kailber/mesto-project/tree/gh-pages)
+# [Проект Место](https://kailber.github.io/mesto-project/)
 Интерактивный проект с взаимодействием с сервером от **Яндекс Практикума**.
 
 ## Функциональность
