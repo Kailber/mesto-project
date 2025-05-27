@@ -7,8 +7,7 @@ module.exports = {
     entry: { main: './src/components/index.js' },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'main.js',
-        publicPath: ''
+        filename: 'main.[hash].js'
     },
     mode: 'development',
     devServer: {
